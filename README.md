@@ -2,7 +2,18 @@
 
 ## Overview
 
-This project demonstrates a complete, end-to-end data analysis workflow in Microsoft Excel — from raw, unstructured data to a polished, interactive business dashboard. It reflects a structured analytical approach: clean the data, integrate disparate sources, analyze key metrics, and visualize findings in a way that supports business decision-making.
+This project demonstrates a complete, end-to-end data analysis workflow in Microsoft Excel - from raw, unstructured data to a polished, interactive business dashboard. It reflects a structured analytical approach: clean the data, integrate disparate sources, analyze key metrics, and visualize findings in a way that supports business decision-making.
+
+## Business Questions
+
+1.	How is the business performing overall?
+2.	How have revenue and profit changed over time?
+3.	Which products are driving sales?
+4.	Which products are driving profitability?
+5.	Which categories and brands perform best?
+6.	Which countries contribute the most to the business?
+7.	What purchasing patterns can we identify from payment method and product preferences?
+8.	What actions should management take based on the findings?
 
 ## Workflow
 
@@ -29,7 +40,6 @@ Built an interactive dashboard featuring KPIs, donut charts, and bar charts to s
 3. Use the slicers to filter data by category or date range.
 
 ## Key Insights
-
 
 
 ## Preview
