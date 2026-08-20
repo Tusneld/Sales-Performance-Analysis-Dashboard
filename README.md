@@ -61,4 +61,4 @@ Based on these findings, the following actions are recommended for Zen EliteStri
 
 ## Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](Shoe Sales Dashboard2.PNG)
