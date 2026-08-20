@@ -61,4 +61,4 @@ Based on these findings, the following actions are recommended for Zen EliteStri
 
 ## Preview
 
-![Dashboard Preview](Shoe Sales Dashboard2.PNG)
+![Dashboard Preview]([Shoe Sales Dashboard2.PNG](https://github.com/Tusneld/Sales-Performance-Analysis-Dashboard/blob/12d5f2a5b7410ef9b2a45267672f675ef3838718/Shoe%20Sales%20Dashboard2.PNG)
