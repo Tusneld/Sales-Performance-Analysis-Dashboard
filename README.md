@@ -1,8 +1,8 @@
-# Sales Performance Analysis Dashboard
+# Zen EliteStride Maison's Sales Performance Analysis Dashboard
 
 ## Overview
 
-This project demonstrates a complete, end-to-end data analysis workflow in Microsoft Excel - from raw, unstructured data to a polished, interactive business dashboard. It reflects a structured analytical approach: clean the data, integrate disparate sources, analyze key metrics, and visualize findings in a way that supports business decision-making.
+This project demonstrates a complete, end-to-end data analysis workflow in Microsoft Excel — from raw, unstructured data to a polished, interactive business dashboard. It reflects a structured analytical approach: clean the data, integrate disparate sources, analyze key metrics, and visualize findings in a way that supports business decision-making.
 
 ## Business Questions
 
@@ -41,8 +41,24 @@ Built an interactive dashboard featuring KPIs, donut charts, and bar charts to s
 
 ## Key Insights
 
+- **Revenue:** $355,048 in total revenue, with a 47.1% profit margin across 4,012 units sold.
+- **Trend:** Revenue peaked in June before tapering off into August, pointing to a clear seasonal pattern.
+- **Top Product:** Canvas shoes were the top-performing product, generating $63,488 in revenue.
+- **Top Brand:** Clarks led all brands by a wide margin, bringing in $123,543.
+- **Top Market:** Zimbabwe was the top-contributing country by both revenue and profit.
+- **Payment Methods:** Transactions were fairly evenly split across Bank Transfer, Card, and Cash, with Mobile Money trailing behind.
+- **Category Mix:** The Casual category dominated, accounting for over half of total revenue.
+
+## Recommendations
+
+Based on these findings, the following actions are recommended for Zen EliteStride Maison's management:
+
+- **Seasonal planning:** Ramp up inventory and marketing ahead of the May–June peak, and investigate the July–August drop-off to identify ways to soften the seasonal decline.
+- **Product focus:** Double down on Canvas and Clarks, the clear revenue drivers, by expanding these lines or bundling them with lower-performing products.
+- **Market prioritization:** Prioritize Zimbabwe in regional strategy while exploring what's limiting growth in lower-performing countries.
+- **Payment adoption:** Encourage Mobile Money adoption through targeted incentives, given its lower share of transactions relative to other payment methods.
+- **Category diversification:** Continue investing in the Casual category, while running targeted campaigns to grow the underrepresented Formal, Open, and Utility segments.
 
 ## Preview
 
-
-
+![Dashboard Preview]()
