@@ -1,5 +1,10 @@
 # Zen EliteStride Maison's Sales Performance Analysis Dashboard
 
+---
+![Dashboard](https://github.com/Tusneld/Sales-Performance-Analysis-Dashboard/blob/12d5f2a5b7410ef9b2a45267672f675ef3838718/Shoe%20Sales%20Dashboard2.PNG)
+
+---
+
 ## Overview
 
 This project demonstrates a complete, end-to-end data analysis workflow in Microsoft Excel — from raw, unstructured data to a polished, interactive business dashboard. It reflects a structured analytical approach: clean the data, integrate disparate sources, analyze key metrics, and visualize findings in a way that supports business decision-making.
@@ -59,6 +64,3 @@ Based on these findings, the following actions are recommended for Zen EliteStri
 - **Payment adoption:** Encourage Mobile Money adoption through targeted incentives, given its lower share of transactions relative to other payment methods.
 - **Category diversification:** Continue investing in the Casual category, while running targeted campaigns to grow the underrepresented Formal, Open, and Utility segments.
 
-## Preview
-
-![Dashboard Preview]([Shoe Sales Dashboard2.PNG](https://github.com/Tusneld/Sales-Performance-Analysis-Dashboard/blob/12d5f2a5b7410ef9b2a45267672f675ef3838718/Shoe%20Sales%20Dashboard2.PNG)
