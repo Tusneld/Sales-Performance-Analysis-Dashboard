@@ -37,7 +37,7 @@ Built an interactive dashboard featuring KPIs, donut charts, and bar charts to s
 
 ## How to Use
 
-1. Download the dataset provided in this repository.
+1. Access the dataset via this [Google Drive link](https://drive.google.com/drive/folders/1I_KnUU50t4Hw0O4Iw-tIQH5tszJrcMc9?usp=sharing).
 2. Open the workbook and refresh all data connections.
 3. Use the slicers to filter data by category or date range.
 
