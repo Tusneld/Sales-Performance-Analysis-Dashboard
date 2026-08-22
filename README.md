@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project demonstrates a complete, end-to-end data analysis workflow in Microsoft Excel — from raw, unstructured data to a polished, interactive business dashboard. It reflects a structured analytical approach: clean the data, integrate disparate sources, analyze key metrics, and visualize findings in a way that supports business decision-making.
+This project demonstrates a complete, end-to-end data analysis workflow in Microsoft Excel - from raw, unstructured data to a polished, interactive business dashboard. It reflects a structured analytical approach: clean the data, integrate disparate sources, analyze key metrics, and visualize findings in a way that supports business decision-making.
 
 ## Business Questions
 
